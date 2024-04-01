@@ -1,0 +1,1 @@
+Write a function to create a deep copy using your own code. You're not allowed to use built in method & JSON.stringify
