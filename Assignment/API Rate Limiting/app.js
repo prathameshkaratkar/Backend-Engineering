@@ -6,8 +6,8 @@ const PORT = 5002;
 
 const limiter = rateLimit({
     windowMs: 15 * 60 * 1000, // 15 minutes
-    max: 10,
-    message:"Please try after 15 minutes" // limit each IP to 100 requests per windowMs
+    max: 10,    // limit each IP to 100 requests per windowMs
+    message:"Please try after 15 minutes" 
 });
 
 // create a middleware
