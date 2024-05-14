@@ -1,0 +1,3 @@
+{"level":"info","message":"API listening at http://localhost:3000","service":"github-repository","timestamp":"2024-05-14T18:27:46.736Z"}
+{"level":"info","message":"Fetching repositories for prathameshkaratkar","service":"github-repository","timestamp":"2024-05-14T18:28:55.244Z"}
+{"level":"info","message":"Successfully fetched repository data for user prathameshkaratkar","service":"github-repository","timestamp":"2024-05-14T18:28:55.871Z"}
