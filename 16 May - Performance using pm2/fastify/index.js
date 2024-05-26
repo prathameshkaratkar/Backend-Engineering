@@ -2,7 +2,7 @@ import Fastify from 'fastify';
 const  fastify = Fastify();
 
 fastify.get('/',async function handler(request, reply) {
-    return {message: "Welcome to Fastify "}
+    return {message: "Welcome to Fastify server"}
 });
 
 // Run the server
